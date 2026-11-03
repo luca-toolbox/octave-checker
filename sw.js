@@ -1,6 +1,6 @@
 // Octave Checker 오프라인 캐시
 // 파일을 수정해서 다시 올릴 때는 VERSION 숫자를 올려야 휴대폰에 새 버전이 반영됩니다.
-const VERSION = 'v3';
+const VERSION = 'v4';
 const CACHE = 'harmony-roll-' + VERSION;
 const CORE = [
   './',
